@@ -1,0 +1,25 @@
+Hybrid cloud strategies and its benefits:
+More than half of respondents use multiple public clouds;
+and 16% have consolidated onto a single public cloud
+
+For above statement, we have few possible justifications for high usage of multiple public clouds.
+1) Vendor Lock-In Avoidance: Organizations can prevent vendor lock-in by using several public cloud service providers. By utilizing the distinctive features, services, and price structures provided by several providers, they can lessen their reliance on a single vendor and increase the flexibility of their cloud plans.
+2) Best-of-Breed Approach: Different cloud service providers could specialize in particular services or have advantages in particular regions. Organizations can choose the best providers for each unique workload or application by utilizing several public clouds. As a result, they can take use of the skills and strengths of several providers to enhance performance and fulfill certain needs.
+3) Geographic and Redundancy Considerations: There are data centers for public cloud providers all over the world. In order to provide redundancy and disaster recovery capabilities, enterprises can disperse their infrastructure across a number of different geographic regions by using several cloud providers. In the event of regional outages or disruptions, this strategy helps reduce the risk of data loss or service interruptions.
+4) Cost Optimization: Companies can evaluate and take advantage of the competitive pricing and cost structures provided by various providers. This gives them the ability to reduce costs based on the demands of a certain workload, use trends, and available discounts or promotions.
+5) Specific Service Offerings: Different cloud providers may be better able to accommodate a particular organization's application or workload requirements. One provider, for instance, might be better at AI and machine learning, while another might be better at big data analytics or IoT services. 
+6) Mergers and Acquisitions: Due to mergers or acquisitions, corporations can have numerous public clouds. Consolidating onto a single public cloud requires time and effort since different business units or divisions within an organization may have already been using separate cloud providers.
+
+Usage of multi-cloud architectures by all organizations:
+
+>> Apps siloed on different clouds
+Organizations use various cloud platforms or providers to spread their workloads or apps in a multi-cloud architecture. Each cloud provider runs as a separate "silo," hosting particular workloads or applications. Utilizing this strategy enables businesses to take advantage of the benefits and services provided by various cloud providers.
+
+>> DR/failover between clouds
+In order to implement disaster recovery (DR) and failover solutions, redundant infrastructure and data replication techniques must be put up across several clouds. Applications and data can be instantly moved or failovered to an alternate cloud provider in the event of an outage or failure of one cloud provider, providing business continuity and reducing downtime.
+
+>> Intelligent workload placement
+This involves distributing workloads optimally and dynamically among various cloud environments or service providers. It takes into account things like performance standards, budgetary constraints, legal requirements for compliance, and other predetermined criteria. Organizations may utilize the advantages of multi-cloud architectures and make optimum use of resources with the help of intelligent workload placement.
+
+>> Workload bursting (cloud bursting)
+When more resources are required, the capacity to extend workloads or applications from a private cloud to a public cloud. Utilizing the scalability of public cloud resources, it enables enterprises to meet abrupt spikes in demand or short-term resource requirements while retaining the majority of their workload on a private cloud infrastructure.
